@@ -2,7 +2,7 @@
 
 const Data = {
     List: [
-      {
+      { 
         id: 1,
         name: 'cricket',
         image: '/images/download.jfif',
@@ -10,7 +10,7 @@ const Data = {
       {
         id: 2,
         name: 'Football',
-        image: '/images/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L2pvYjY4MS0wMDYwLXAucG5n.webp',
+        image: '/images/football.webp',
       },
       {
         id: 3,
